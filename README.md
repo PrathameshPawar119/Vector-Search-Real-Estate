@@ -3,6 +3,9 @@
 ## Overview
 This project implements a vector search-based real estate recommendation system using MongoDB, OpenAI embeddings, and Flask. It allows users to search for properties using natural language queries, leveraging vector similarity to find relevant listings and providing AI-enhanced responses.
 
+https://github.com/user-attachments/assets/fa55fde0-d29e-4bb1-be1a-89dc4bba70cd
+
+
 ## Features
 - Natural language property search using vector embeddings
 - AI-powered response generation for property recommendations
