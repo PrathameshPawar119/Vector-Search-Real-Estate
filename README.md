@@ -82,7 +82,7 @@ This script will:
 - Generate embeddings for each property
 - Store the data and embeddings in MongoDB
 - Create the necessary vector search index
-- [https://www.mongodb.com/developer/products/atlas/using-openai-latest-embeddings-rag-system-mongodb/#step-6--create-a-vector-search-index](create custom vector search index)
+- [create a custom vector search index if necessary]([create custom vector search index](https://www.mongodb.com/developer/products/atlas/using-openai-latest-embeddings-rag-system-mongodb/#step-6--create-a-vector-search-index))
 
 ## Running the Application
 
