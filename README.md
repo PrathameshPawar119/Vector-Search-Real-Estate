@@ -204,3 +204,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI for providing the embedding and language models
 - MongoDB for their vector search capability
+- Bhai free me bohot explore karne diya thanks, MongoDB
